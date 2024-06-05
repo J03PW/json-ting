@@ -1,0 +1,35 @@
+{
+"tittel": "Ansatte", 
+"ansatte" : [
+{
+    "navn": "Jon Jonas",
+    "alder": 42,
+    "Telefonnummer": 46400464
+},
+{
+    "navn": "Tom Tomas",
+    "alder": 23,
+    "Telefonnummer": 13656111
+},
+{
+    "navn": "Anna Albo",
+    "alder": 35,
+    "Telefonnummer": 31515112
+},
+{
+    "navn": "Tim Timber",
+    "alder": 57,
+    "Telefonnummer": 13259712
+},
+{
+    "navn": "Conrad Code",
+    "alder": 19,
+    "Telefonnummer": 12315663
+},
+{
+    "navn": "Bella Blåfjell",
+    "alder": 31,
+    "Telefonnummer": 19773213
+}
+]
+}
